@@ -9,12 +9,6 @@ body{
     background-size: cover;
  
 }
-.login{
-    height: 26rem;
-    display: flex;
-    justify-content: center;   
-    align-items: flex-end;
-}
 
 .logo{
     margin-top: -70px;

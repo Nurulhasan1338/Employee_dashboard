@@ -57,7 +57,7 @@ var pieChart3 = new Chart(ctx3, {
                 data: [300, 50, 100],
                 borderWidth: 7,
                 backgroundColor: [
-                    '#f80c24',
+                    '#46d8d5',
                     "#182390",
                     "#f5e132",
                 ],
@@ -73,7 +73,7 @@ var pieChart3 = new Chart(ctx3, {
 
 var xValues = ["Work", "Meeting", "Break"];
 var yValues = [20,50,37,1];
-var barColors = ["red", "green","blue"];
+var barColors = ["#f5e132", "#182390",'#46d8d5'];
 
 new Chart("myChart", {
   type: "bar",
